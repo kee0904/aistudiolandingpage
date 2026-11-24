@@ -1,0 +1,6 @@
+{
+  "name": "OnePeak — Viral Content Accelerator",
+  "description": "Four-month viral video coaching programme teaching creators, coaches, and business owners to produce repeatable high-view content with Format Finder™, AI prompts, and weekly expert reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
